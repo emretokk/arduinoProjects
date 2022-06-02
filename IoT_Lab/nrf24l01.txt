@@ -1,0 +1,44 @@
+nRF24L01
+
+-----------------------------------------
+
+Library : github.com/maniacbug/RF24
+        : https://github.com/moggiex/NRF24L01-PA-LNA-Testing-Scripts
+
+Frekans: 2.4 GHz ~ 2.5 GHz
+Çalışma Voltajı: 3V ~ 3.6V
+Max Akım: 115mA
+Multi Frekans: 125 Frekans
+6 kanalın veri alımına kadar desteklemektedir.
+NRF24L modülün konnektörü SMA Dişi konnektörlüdür
+Antenin konnektörü SMA erkek konnektörlüdür.
+
+
+PT2262-transnmitter
+
+-----------------------------------------
+
+Model no: TB416 Encoder Transmitter
+Çalışma gerilimi: 9VDC
+Çalışma akımı: >100mA
+Çalışma frekansı: 433MHz
+Modülasyon: ASK/OOK
+SAW frekans stabilitesi: ±150kHz(maksimum)
+RF çıkış gücü: >55mW
+Veri hızı: ≤10Kbps
+Anten uzunluğu: 18 cm (433.92 MHz)
+Boyutlar: 49x31x8mm
+Şifreleme yöntemi: SC2262, PT2272 entegresi ile uyumlu
+Menzil: ~4km (açık alanda)
+
+PT2272-receiver
+
+------------------------------------------
+
+Çalışma frekansı: 433MHz
+Çalışma gerilimi: DC 5V
+Çalışma akımı: ≤3mA (5.0V DC)
+Modülasyon: ASK
+Hassasiyet: -105dBm (50Ω)
+Çıkış: TTL seviyesi
+Çıkış tipi: Anlık

@@ -1,0 +1,21 @@
+Proje adi
+proje kapsami
+kullanilacak teknolojiler 
+
+-------------------
+
+Arduino : UNO, nano
+Tekerler : Arduino Tekeri
+Motor Surucu : L298 Step Motor Surucu
+RF Haberlesme : nRF4L01
+Batarya : 18650 3.7V 2200mAh rechargable
+Kablo : Jumper Kablo
+Pil soketi : 2 kanal 18650 pil yuvasi
+Switch : lc-208A Slide switch
+Regulator : LM7805 
+Leds
+Resistors
+
+ 
+NRF24L01 = 100m 1km anten ile birlikte 31,12 TL
+PT2262-transnmitter = 75,65 PT2272-reciver = 33,50 TOPLAM = 109,15 TL
